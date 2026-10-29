@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Dépendances / environnements
+node_modules/
+.venv/
+__pycache__/
+
+# Éditeurs
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Secrets
+.env
+.env.*

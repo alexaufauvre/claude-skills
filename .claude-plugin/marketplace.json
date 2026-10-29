@@ -1,0 +1,12 @@
+{
+  "name": "claude-skills",
+  "owner": { "name": "alexaufauvre" },
+  "plugins": [
+    {
+      "name": "mes-skills",
+      "source": "./plugins/mes-skills",
+      "description": "Mes skills Claude perso",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -26,3 +26,4 @@ Dans Claude Code :
 | Skill | Description |
 |-------|-------------|
 | `exemple-skill` | Skill d'exemple à remplacer. |
+| `feedback-synthesis` | Synthèse de feedbacks (interviews, tickets, in-app) : problèmes priorisés, comptés et sourcés avec verbatims. |
